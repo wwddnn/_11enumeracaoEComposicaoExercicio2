@@ -1,9 +1,13 @@
-# 💻 _11enumeracoesEComposicao
-- 🎯 Noções básicas sobre enumerações e composição de objetos em Java. Tem anotações e um pequeno programa, com uma classe 'enum', e outra classe pedido.
-- 🎯 Contém um readme sobre Design.
-- 🎯 Contém um redme sobre Composição.
+# 💻 _11enumeracoesEComposicaoExercicio2
+- 🎯Esse programa (hard code - sem entrada de dados pelo teclado) tem o intuito de trazer conceitos como:
+- 🎯StringBuilder (permite uma toString grande juntando várias Strings menores).
+- 🎯Composição de objetos.
+- 🎯Orientação a objetos.
+- 🎯Instanciação de objetos com comando 'new'.
+- 🎯List com ArrayList.
 
 # 🔧 Tecnologias e outros:
-- Linguagem Java
-- IDE InteliJ
-- Enumerações e composição de objetos em Java.
+- Linguagem Java.
+- IDE InteliJ.
+- Composição de objetos em Java.
+
